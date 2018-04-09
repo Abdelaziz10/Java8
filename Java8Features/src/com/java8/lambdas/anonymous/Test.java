@@ -15,5 +15,6 @@ public class Test {
 		for (int i = 1; i <= 10; i++) {
 			System.out.println("Main Thread");
 		}
+		System.out.println("ok");
 	}
 }

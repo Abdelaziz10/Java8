@@ -17,5 +17,4 @@ public class Test {
 		}
 		System.out.println("ok");
 	}
-
 }
